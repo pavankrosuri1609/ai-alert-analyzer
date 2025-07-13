@@ -1,0 +1,7 @@
+[
+  {"timestamp": "2025-07-07T10:15:23", "level": "ERROR", "message": "Transfer failed: MQ timeout - PartnerA"},
+  {"timestamp": "2025-07-07T10:15:24", "level": "ERROR", "message": "Transfer failed: MQ timeout - PartnerA"},
+  {"timestamp": "2025-07-07T10:15:26", "level": "ERROR", "message": "Transfer failed: MQ timeout - PartnerB"},
+  {"timestamp": "2025-07-07T10:16:00", "level": "INFO", "message": "File successfully processed."}
+]
+
