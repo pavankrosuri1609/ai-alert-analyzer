@@ -1,0 +1,5 @@
+{
+  "incident_summary": "MQ timeouts occurring during transfers for PartnerA and PartnerB, likely due to connection issues with MQHOST1, suggest checking network connectivity and retry logic as a possible fix.",
+  "generated_by": "AI Alert Analyzer",
+  "version": "v1.0"
+}
