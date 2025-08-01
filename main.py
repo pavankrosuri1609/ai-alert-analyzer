@@ -29,5 +29,5 @@ if __name__ == "__main__":
         print("\n🚨 AI-Generated Summary:")
         print(summary)
         save_summary(summary)
-        slack_webhook = "https://hooks.slack.com/services/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"
+        slack_webhook = #Slack Webhook URL
         send_slack_alert(summary, slack_webhook)

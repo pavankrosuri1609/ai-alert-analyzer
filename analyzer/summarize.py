@@ -4,7 +4,6 @@ from openai import OpenAI
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.getenv("OPENAI_API_KEY"),
-    #api_key="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"
 )
 
 def summarize_errors(errors):
